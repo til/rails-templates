@@ -1,0 +1,8 @@
+A rails template for new rails projects with my personal preferences
+which include rspec, cucumber, haml, machinist, jquery etc.
+
+To use it:
+
+rails -m http://github.com/til/rails-templates/raw/master/default.rb new_project_name
+
+Feedback welcome.
